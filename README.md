@@ -16,8 +16,18 @@ A dashboard often provides a view of key performance indicators in a clear way. 
 For this project I have used Jupyter environment for learning and completing labs in courses. Following are the questions addressed:
 
 Question 1 - Extracting Tesla Stock Data Using yfinance.
+
+
 Question 2 - Extracting Tesla Revenue Data Using Webscraping.
+
+
 Question 3 - Extracting GameStop Stock Data Using yfinance.
+
+
 Question 4 - Extracting GameStop Revenue Data Using Webscraping.
+
+
 Question 5 - Tesla Stock and Revenue Dashboard.
+
+
 Question 6 - GameStop Stock and Revenue Dashboard.
