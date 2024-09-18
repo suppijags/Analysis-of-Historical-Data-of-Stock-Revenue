@@ -4,7 +4,7 @@
 **Project Overview**
 
 
-In this project, my job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python Libraries and Webscraping on popular stocks. After collecting this data I will visualize it to identify patterns or trends. The stocks I will work with are Tesla and GameStop.
+This is one of the assignments completed in IBM Data Science Professional Certificate course. In this project, my job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python Libraries and Webscraping on popular stocks. After collecting this data I will visualize it to identify patterns or trends. The stocks I will work with are Tesla and GameStop.
 
 
 **Dashboard Analytics Displayed**
