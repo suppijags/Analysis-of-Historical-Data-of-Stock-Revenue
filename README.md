@@ -1,15 +1,13 @@
-# Analysis-of-Historical-Data-of-Stock-Revenue
-
-Analyzing-Historical-Stock-and-Revenue-Data-with-Python
+# Analysis-of-Historical-Data-of-Stock-Revenue with Python
 
 
-Project Overview
+**Project Overview**
 
 
 In this project, my job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python Libraries and Webscraping on popular stocks. After collecting this data I will visualize it to identify patterns or trends. The stocks I will work with are Tesla and GameStop.
 
 
-Dashboard Analytics Displayed
+**Dashboard Analytics Displayed**
 
 
 A dashboard often provides a view of key performance indicators in a clear way. Analyzing a data set and extracting key performance indicators will be practiced. Prompts will be used to support learning in accessing and displaying data in dashboards. Learning how to display key performance indicators on a dashboard will be included in this project. I will be using Plotly in this project for data visualization and is not a requirement to take this project.
